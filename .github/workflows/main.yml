@@ -30,6 +30,9 @@ jobs:
     - name: Install Playwright Browsers
       run: npx playwright install
 
+    - name: Install Playwright Browsers
+      run: pwsh AllureMain.Tests/bin/Debug/net8.0/playwright.ps1 install
+
     - name: Build the project
       run: dotnet build AllureMain.sln --no-restore
       
