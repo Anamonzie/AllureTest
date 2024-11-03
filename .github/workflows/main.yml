@@ -25,7 +25,7 @@ jobs:
       run: npx playwright install-deps
       
     - name: Install dependencies
-      run: dotnet restore AllureTest/AllureMain.sln
+      run: dotnet restore AllureMain.sln
       
     - name: Install Playwright Browsers
       run: npx playwright install --with-deps
