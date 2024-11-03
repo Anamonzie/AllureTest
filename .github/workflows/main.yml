@@ -28,7 +28,10 @@ jobs:
       run: dotnet restore AllureMain.sln
       
     - name: Install Playwright Browsers
-      run: npx playwright install --with-deps
+      run: npx playwright install
+
+    - name: Build the project
+      run: dotnet build AllureMain.sln --no-restore
       
     - name: Run Playwright tests
       run: dotnet test AllureMain.Tests/AllureMain.Tests.csproj --configuration Release --verbosity normal 
