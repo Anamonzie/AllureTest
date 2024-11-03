@@ -27,18 +27,15 @@ jobs:
     - name: Install dependencies
       run: dotnet restore AllureMain.sln
       
-    - name: Install Playwright Browsers
-      run: npx playwright install
-
-    - name: Install Playwright Browsers
-      run: pwsh AllureMain.Tests/bin/Debug/net8.0/playwright.ps1 install
-
     - name: Build the project
       run: dotnet build AllureMain.sln --no-restore
       
+    - name: Install Playwright Browsers
+      run: pwsh AllureMain.Tests/bin/Debug/net8.0/playwright.ps1 install
+
     - name: Run Playwright tests
       run: dotnet test AllureMain.Tests/AllureMain.Tests.csproj --configuration Release --verbosity normal 
-          
+      
     - uses: actions/upload-artifact@v4
       if: ${{ !cancelled() }}
       with:
