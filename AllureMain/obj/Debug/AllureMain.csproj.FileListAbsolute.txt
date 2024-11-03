@@ -1,6 +1,0 @@
-C:\Users\PC\Desktop\Allure Test\AllureTest\AllureMain\bin\Debug\AllureMain.dll
-C:\Users\PC\Desktop\Allure Test\AllureTest\AllureMain\bin\Debug\AllureMain.pdb
-C:\Users\PC\Desktop\Allure Test\AllureTest\AllureMain\obj\Debug\AllureMain.csproj.AssemblyReference.cache
-C:\Users\PC\Desktop\Allure Test\AllureTest\AllureMain\obj\Debug\AllureMain.csproj.CoreCompileInputs.cache
-C:\Users\PC\Desktop\Allure Test\AllureTest\AllureMain\obj\Debug\AllureMain.dll
-C:\Users\PC\Desktop\Allure Test\AllureTest\AllureMain\obj\Debug\AllureMain.pdb
