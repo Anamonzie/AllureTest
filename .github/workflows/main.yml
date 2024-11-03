@@ -31,7 +31,7 @@ jobs:
       run: npx playwright install --with-deps
       
     - name: Run Playwright tests
-          dotnet test AllureMain.Tests/AllureMain.Tests.csproj --configuration Release --verbosity normal 
+      run: dotnet test AllureMain.Tests/AllureMain.Tests.csproj --configuration Release --verbosity normal 
           
     - uses: actions/upload-artifact@v4
       if: ${{ !cancelled() }}
