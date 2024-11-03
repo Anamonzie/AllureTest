@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Allure Test\\AllureTest\\AllureMain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74DEDCF7-2AD7-4480-AAD1-BF55C0B29604}|AllureMain.Tests\\AllureMain.Tests.csproj|c:\\users\\pc\\desktop\\allure test\\alluretest\\alluremain\\alluremain.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DEDCF7-2AD7-4480-AAD1-BF55C0B29604}|AllureMain.Tests\\AllureMain.Tests.csproj|solutionrelative:alluremain.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1201D6AA-6E0D-49B2-9854-B8416D2FE2C7}|AllureMain\\AllureMain.csproj|c:\\users\\pc\\desktop\\allure test\\alluretest\\alluremain\\alluremain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1201D6AA-6E0D-49B2-9854-B8416D2FE2C7}|AllureMain\\AllureMain.csproj|solutionrelative:alluremain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 156,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Allure Test\\AllureTest\\AllureMain\\AllureMain.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "AllureMain.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Allure Test\\AllureTest\\AllureMain\\AllureMain.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "AllureMain.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:00:23.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Allure Test\\AllureTest\\AllureMain\\AllureMain\\Class1.cs",
+              "RelativeDocumentMoniker": "AllureMain\\Class1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Allure Test\\AllureTest\\AllureMain\\AllureMain\\Class1.cs",
+              "RelativeToolTip": "AllureMain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T21:59:27.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 8,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
